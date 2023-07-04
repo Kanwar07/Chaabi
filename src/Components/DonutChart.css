@@ -1,0 +1,6 @@
+.donutchart {
+  width: 12.25rem !important;
+  height: 12.25rem !important;
+  flex-shrink: 0 !important;
+  margin: 1rem 2rem;
+}

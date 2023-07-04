@@ -1,0 +1,36 @@
+.bar {
+  width: 18.25rem;
+  height: 68.5rem;
+  background: var(--foundation-blue-light, #e7efff);
+}
+
+.chaabi {
+  margin: auto !important;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.button1 {
+  display: flex !important;
+  margin: 0.2rem 0rem !important;
+  align-items: flex-start !important;
+}
+
+.button {
+  display: flex !important;
+  margin: 0.2rem 0rem !important;
+  background-color: rgba(13, 98, 255, 1) !important;
+  align-items: flex-start !important;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  margin-left: 3rem;
+  align-items: flex-start;
+}
+
+.main {
+  background-color: rgba(13, 98, 255, 1);
+  color: white;
+}

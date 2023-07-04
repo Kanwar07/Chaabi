@@ -1,0 +1,56 @@
+.head {
+  width: 86.5rem;
+  height: 9.0625rem;
+  flex-shrink: 0;
+  border-radius: 0rem 0rem 0.625rem 0.625rem;
+  background: var(--foundation-blue-normal-hover, #0c58e6);
+}
+
+.Heading {
+  display: flex;
+  width: 33.375rem;
+  flex-direction: column;
+  color: #fff;
+  font-size: 3rem;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%;
+  text-transform: capitalize;
+  margin: 1rem 2rem 0rem 2rem;
+}
+
+.para {
+  color: #fff;
+  font-size: 1.1875rem;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  text-transform: capitalize;
+  margin: 0rem 2rem 0rem 2rem;
+}
+
+.parent {
+  border-radius: 0rem 0rem 0.625rem 0.625rem;
+  width: 86.5rem;
+  height: 9.0625rem;
+  background-position: "center";
+  background-size: "cover";
+  background-repeat: "no-repeat";
+  background-image: radial-gradient(
+    circle,
+    #060859,
+    #0f1671,
+    #16248a,
+    #1933a5,
+    #1942c0,
+    #1942c0,
+    #1942c0,
+    #1942c0,
+    #1933a5,
+    #16248a,
+    #0f1671,
+    #060859
+  );
+}

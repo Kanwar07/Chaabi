@@ -1,0 +1,6 @@
+.piechart {
+  width: 14.875rem !important;
+  height: 14.875rem !important;
+  flex-shrink: 0 !important;
+  margin: 2rem;
+}
